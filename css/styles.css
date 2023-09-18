@@ -1,0 +1,45 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(219, 216, 216);
+}
+
+h1 {
+    color: rgba(34, 33, 33, 0.849);
+}
+
+button {
+    height: 50px;
+    width: auto;
+    font-size: 24px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.lasagna-heading {
+    color: rgb(134, 18, 18);
+}
+
+.lasagna {
+    background-color: rgb(238, 146, 146);
+}
+
+.meatloaf-heading {
+    color: rgb(129, 83, 19);
+}
+
+.meatloaf {
+    background-color: rgb(218, 184, 137);
+}
+
+.pancakes-heading {
+    color: rgb(165, 151, 25);
+}
+
+.pancakes {
+    background-color: rgb(241, 233, 143);
+}
